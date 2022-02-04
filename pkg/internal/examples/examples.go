@@ -3,7 +3,7 @@ package examples
 import (
 	"fmt"
 
-	metadata "go-solana-nft-metadata/pkg"
+	metadata "github.com/mcdayoub/go-solana-nft-metadata/pkg"
 )
 
 func accountOwnerExample() {
